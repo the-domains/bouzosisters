@@ -4,7 +4,7 @@
         <description><![CDATA[BouzoSisters]]></description>
         <link>https://thegrid.ai/bouzosisters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 07:48:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 07:55:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bouzosisters/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ABOUT US]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/bouzosisters/about-us/index.html</link>
             <guid isPermaLink="false">94d88615-0b54-4ea9-a950-d812f65cfe0c</guid>
             <pubDate>Tue, 29 Mar 2016 07:47:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PRODUCTS AND PROJECTS]]></title>
+            <description><![CDATA[<article><h1>PRODUCTS AND PROJECTS</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10a5e495-7cf4-4dd0-81ac-88f87364cb12.png"></article>]]></description>
+            <link>https://thegrid.ai/bouzosisters/products-and-projects/index.html</link>
+            <guid isPermaLink="false">982b2275-be44-4247-b82b-ff08a2222d94</guid>
+            <pubDate>Tue, 29 Mar 2016 07:55:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
